@@ -16,8 +16,10 @@ echo $cyan
 figlet "VIRUS"
 sleep 1
 echo $cyan"Kirim Virus"
-sleep 1                                        echo
-echo $cyan"+------------------------------+"   echo $cyan" Author : MrD0nx"
+sleep 1                                        
+echo
+echo $cyan"+------------------------------+"   
+echo $cyan" Author : MrD0nx"
 echo $cyan" IG     : Moh.dito_"
 echo $cyan" Team   : IndoDarknet"
 echo $cyan"+------------------------------+"
@@ -93,7 +95,8 @@ fi
 if [ $bro = 2 ] || [ $bro = 2 ]
 then
 sleep 1
-echo $cyan                                     figlet "VIA NO"
+echo $cyan                                    
+figlet "VIA NO"
 read -p "Masukan No Target ---> " hp
 echo
 sleep 1
